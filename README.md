@@ -23,7 +23,7 @@ To run these notebooks and replicate the project's findings, follow the steps be
 
 2. **Navigate to the project directory:**
    ```bash
-   cd diabetes-risk-prediction
+   cd IS597-MLC-FinalProject
    ```
 
 3. **Install the required packages:**
