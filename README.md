@@ -10,7 +10,7 @@ This project utilizes the *diabetes_012_health_indicators_BRFSS2015.csv* (Datase
 - **Part 1:** Focuses on binary classification for predicting 'no diabetes' vs. 'diabetes'.
 - **Part 2:** Expands the prediction to include a multiclass classification system that adds 'pre-diabetes' as a transitional phase between 'no diabetes' and 'diabetes'.
 
-The aim is to explore the relationship between sociodemographic characteristics and health indicators in predicting diabetes risk. We assess various machine learning models, analyze feature importance, and explore data segmentation to understand how different groups are affected by diabetes.
+The aim is to explore the relationship between sociodemographic characteristics and health indicators in predicting diabetes risk. Various machine learning models are assessed, feature importance analyzed, and data segmentation explored to understand how different groups are affected by diabetes.
 
 ## Setup Instructions
 To run these notebooks and replicate the project's findings, follow the steps below:
