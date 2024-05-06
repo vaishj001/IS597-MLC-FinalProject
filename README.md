@@ -38,4 +38,5 @@ To run these notebooks and replicate the project's findings, follow the steps be
    jupyter lab
    ```
 
-5. **Open the Part 1 notebook for binary classification or the Part 2 notebook for multiclass classification. Execute the cells in sequence to view the analysis and results.**
+5. **Open the Part 1 notebook for binary classification or the Part 2 notebook for multiclass classification.**
+   Execute the cells in sequence to view the analysis and results.
